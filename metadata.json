@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Ghost in the Machine",
+  "description": "An AI-powered infinite canvas where a Gemini 3.0 virtual agent collaborates with you by moving, creating, and manipulating objects in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "orientation": "landscape"
+}
